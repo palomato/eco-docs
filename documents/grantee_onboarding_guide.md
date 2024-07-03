@@ -26,6 +26,10 @@
 - Provide support and utilize council resources including technical assistance and mentorship programs.
 - Champion the project in the wider community through communication pathways and/or applicable events.
 
+### Step 5: A NEW STEP
+
+- DETAILS
+
 ## To Do’s
 
 - Template for Notion pages (Extract from current Notion)
