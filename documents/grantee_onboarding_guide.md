@@ -1,7 +1,5 @@
 # Onboarding Guide
 
-## Grantee Onboarding
-
 ### Step 1: Introduction
 
 - Intro meeting with assigned council members to discuss project expectations and communication preferences.
