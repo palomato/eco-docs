@@ -1,10 +1,3 @@
-# EC Talking Notes
-
-_Last updated: 24.6.2024_
-
-**Draft creator:** Lord Nejc  
-**Purpose:** Talking Notes Document for the Ecosystem Council
-
 ## Frontinus House Ecosystem Council
 
 ### What is the Ecosystem Council?
