@@ -1,2 +1,4 @@
 # eco-docs
-Test repo for Bibliotheca DAO Ecosystem Council Docs
+Test repository of documents for the Bibliotheca DAO Ecosystem Council.
+- Exemplar for document version control
+- Exemplar for doc site
