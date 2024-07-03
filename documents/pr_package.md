@@ -1,4 +1,4 @@
-## Frontinus House Ecosystem Council
+# Frontinus House Ecosystem Council
 
 ### What is the Ecosystem Council?
 
